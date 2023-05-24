@@ -8,3 +8,5 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY="superlongkeyhere"
 `middleware.ts` redirecting to /dashboard when on /dashboard causes infinite loop
 
 Can also be triggered by a redirect after logging in to the dashboard which will crash the browser on that page
+
+![gif2](./gif2.gif)
